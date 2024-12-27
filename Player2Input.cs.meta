@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74ff32c33b0c9b54d9e6f15c01e790b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Scripts/PlayerInput.cs
+  uploadId: 417488

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50b25ae13abd83c4b90bc40e5182eecf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Scripts/PhysicalCC.cs
+  uploadId: 417488
